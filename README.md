@@ -1,6 +1,6 @@
 # finetune
 
-# 1. My first LoRA finetuning project on - True or False Quiz Bot
+# 1. My first LoRA finetuning project on - True or False Quiz Bot using Unsloth
 
 **Dataset** -  Manipulated. Originally from Kaggle's "Open Trivia Database Quiz Questions All Categories" Dataset. (260 rows)
 
