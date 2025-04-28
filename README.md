@@ -8,7 +8,7 @@
 
 The quiz bot awards +1 points for the right answer and -1 points for the wrong answer, and also tells the total score after every question-answer round.
 
-#Data preparation - making 500 rows from 260 rows
+# Data preparation - making 500 rows from 260 rows
 
 1. created lists(length 4) of possible way a user or the bot can say the following :
    Greeting, Asking for next question, asking a question, evaluating the question.
